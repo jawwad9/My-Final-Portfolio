@@ -16,6 +16,15 @@ const projects = [
     liveLink: "https://javascript-curd.netlify.app/",
     isLive: true,
     image: "src/assets/01.png",
+  },
+  {
+    name: "React Password Generator",
+    description:
+      "🧾 Simple CRUD App using JavaScript (LocalStorage) A basic Create, Read, Update, and Delete (CRUD) web app built with pure JavaScript. It stores data in browser localStorage with form validation for name and email fields.",
+    gitLink: "https://github.com/jawwad9/JavaScript-CRUD-and-Local-Storage.git",
+    liveLink: "https://javascript-curd.netlify.app/",
+    isLive: true,
+    image: "src/assets/01.png",
   }
 ];
 
