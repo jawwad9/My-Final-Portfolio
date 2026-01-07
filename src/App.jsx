@@ -17,6 +17,7 @@ function App() {
   return (
    <Router>
     {/* Makes sure the page start from the top */}
+    {/* Makes sure the page start from the top */}
     <ScrollToTop/> 
     {/* Particle Background - Always behind all content */}
     <ParticleBackground />
