@@ -2,12 +2,6 @@
 
 Welcome to my personal portfolio website built with **React**, **Tailwind CSS**, and **Framer Motion**. This website showcases my projects, skills, and background in software engineering.
 
-## 🚀 Live Demo
-<👉 [View Live Portfolio](https://final-portfolio-ten-phi.vercel.app/) 
-
-
----
-
 ## 📚 About Me
 I'm a Frontend Developer from Karachi, Pakistan, trained at Saylani Mass IT Training (SMIT) in Web Development.
 
